@@ -8,7 +8,7 @@ describe("Keywords with number of occurrences", () => {
     const keywords = cleanData.init(sampleListeningData, disallowedAuthors);
 
     const keywordsWithOccurrences = keyWordsWithCount(keywords);
-    
+
     expect(keywordsWithOccurrences).toBeInstanceOf(Object);
     expect(keywordsWithOccurrences["Montclair"]).toBe(12);
   });
