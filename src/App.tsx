@@ -6,8 +6,8 @@ function App() {
     console.log(e.target.files)
   }
 
-  const getFileDrop = (e: React.DragEvent) => {
-    console.log(e.dataTransfer.files)
+  const getFileDrop = async (e: React.DragEvent) => {
+    console.log(await e.dataTransfer.files[0].text())
   }
 
   return (
