@@ -1,4 +1,4 @@
-import IWordCount from "@/data/interfaces/IWordCount";
+import IWordCount from "../interfaces/IWordCount"
 
 export default function keywordsWithCount(keywords: string[]): IWordCount {
   return keywords.reduce((obj: IWordCount, keyword: string) => {
