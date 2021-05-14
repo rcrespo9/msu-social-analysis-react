@@ -8,6 +8,9 @@ function App() {
   }
 
   const getFileDrop = async (e: React.DragEvent) => {
+    e.preventDefault()
+    e.stopPropagation();
+
     console.log(await e.dataTransfer.files[0].text())
   }
 

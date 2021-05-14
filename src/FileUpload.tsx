@@ -19,6 +19,7 @@ const FileUpload = ({ uploadText, uploadAltText, fileTypeHelpText, handleFileUpl
 
   const toggleDropZoneHighlight = (e: React.DragEvent<HTMLDivElement>): void => {
     e.preventDefault()
+    e.stopPropagation();
     setDropZoneHighlight(!isDropZoneHighlighted)
   }
 
