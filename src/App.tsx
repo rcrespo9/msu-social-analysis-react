@@ -1,5 +1,6 @@
 import React from 'react';
 import FileUpload from "./FileUpload";
+import BaseCard from "./BaseCard";
 
 function App() {
   const getFileUpload = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -12,7 +13,9 @@ function App() {
 
   return (
     <div className="App container">
-      <FileUpload uploadText="Upload a file" uploadAltText="drag and drop" fileTypeHelpText=".CSV files only" handleFileUpload={getFileUpload} handleFileDrop={getFileDrop} />
+      <BaseCard header="Upload File">
+        <FileUpload uploadText="Upload a file" uploadAltText="drag and drop" fileTypeHelpText=".CSV files only" handleFileUpload={getFileUpload} handleFileDrop={getFileDrop} />
+      </BaseCard>
     </div>
   );
 }

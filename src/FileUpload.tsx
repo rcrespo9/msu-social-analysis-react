@@ -28,20 +28,16 @@ const FileUpload = ({ uploadText, uploadAltText, fileTypeHelpText, handleFileUpl
   }
 
   return (
-    <div className="card">
-      <div className="card-content">
-        <DashedContainer className={`media ${isDropZoneHighlighted ? 'has-background-info-light' : ''}`} onDrop={onDropHandler} onDragOver={(e) => e.preventDefault()} onDragEnter={toggleDropZoneHighlight} onDragLeave={toggleDropZoneHighlight}>
-          <div className="media-content has-text-centered p-5">
-            <label className="has-text-link is-clickable" htmlFor="file-input">
-              {uploadText}
-              <input className="is-sr-only" type="file" name="file-input" id="file-input" onChange={handleFileUpload}/>
-            </label>
-            <p>or { uploadAltText }</p>
-            <p className="has-text-grey">{ fileTypeHelpText }</p>
-          </div>
-        </DashedContainer>
+    <DashedContainer className={`media ${isDropZoneHighlighted ? 'has-background-info-light' : ''}`} onDrop={onDropHandler} onDragOver={(e) => e.preventDefault()} onDragEnter={toggleDropZoneHighlight} onDragLeave={toggleDropZoneHighlight}>
+      <div className="media-content has-text-centered p-5">
+        <label className="has-text-link is-clickable" htmlFor="file-input">
+          {uploadText}
+          <input className="is-sr-only" type="file" name="file-input" id="file-input" onChange={handleFileUpload}/>
+        </label>
+        <p>or { uploadAltText }</p>
+        <p className="has-text-grey">{ fileTypeHelpText }</p>
       </div>
-    </div>
+    </DashedContainer>
   )
 }
 
