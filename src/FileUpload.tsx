@@ -17,12 +17,18 @@ const FileUpload = ({ uploadText, uploadAltText, fileTypeHelpText, handleFileUpl
   }
 
   const onDropHandler = (e: React.DragEvent<HTMLDivElement>): void => {
+    e.preventDefault()
+    e.stopPropagation()
+
     handleFileDrop(e)
     toggleDropZoneHighlight(e)
   }
 
   return (
-    <DashedContainer className={`media ${isDropZoneHighlighted ? 'has-background-info-light' : ''}`} onDrop={onDropHandler} onDragOver={(e) => e.preventDefault()} onDragEnter={toggleDropZoneHighlight} onDragLeave={toggleDropZoneHighlight}>
+    <DashedContainer className={`media ${isDropZoneHighlighted ? 'has-background-info-light' : ''}`} role="region" aria-label="Drag and drop your file here" onDrop={onDropHandler} onDragOver={(e) => {
+      e.stopPropagation()
+      e.preventDefault()
+    }} onDragEnter={toggleDropZoneHighlight} onDragLeave={toggleDropZoneHighlight}>
       <div className="media-content has-text-centered p-5">
         <label className="has-text-link is-clickable" htmlFor="file-input">
           {uploadText}
