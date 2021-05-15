@@ -1,25 +1,18 @@
 import React from "react";
 import styled from "@emotion/styled";
-
-interface FileUploadProps {
-  uploadText: string;
-  uploadAltText: string;
-  fileTypeHelpText: string;
-  handleFileUpload: React.ChangeEventHandler<HTMLInputElement>
-  handleFileDrop: React.DragEventHandler<HTMLDivElement>
-}
+import IFileUploadProps from "./interfaces/IFileUploadProps";
 
 const DashedContainer = styled.div`
   border: 3px dashed;
   border-radius: .25rem;
 `
 
-const FileUpload = ({ uploadText, uploadAltText, fileTypeHelpText, handleFileUpload, handleFileDrop }: FileUploadProps) => {
+const FileUpload = ({ uploadText, uploadAltText, fileTypeHelpText, handleFileUpload, handleFileDrop }: IFileUploadProps) => {
   const [isDropZoneHighlighted, setDropZoneHighlight] = React.useState<boolean>(false)
 
   const toggleDropZoneHighlight = (e: React.DragEvent<HTMLDivElement>): void => {
     e.preventDefault()
-    e.stopPropagation();
+    e.stopPropagation()
     setDropZoneHighlight(!isDropZoneHighlighted)
   }
 
