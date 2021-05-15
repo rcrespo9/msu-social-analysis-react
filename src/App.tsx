@@ -2,9 +2,14 @@ import React from 'react';
 import FileUpload from "./FileUpload";
 import BaseCard from "./BaseCard";
 import IPost from "./data/interfaces/IPost";
+import csv from "csvtojson/index";
 
 function App() {
   const [postsData, setPostsData] = React.useState<IPost[]>([])
+
+  const convertCSVString = async (csvString: string): Promise<IPost[]> => {
+    return csv().fromString(csvString);
+  }
 
   const getFileUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
     try {
@@ -12,8 +17,9 @@ function App() {
 
       if (files) {
         const uploadedFileText = await files[0].text()
+        const convertedFileText = await convertCSVString(uploadedFileText)
 
-        console.log(uploadedFileText)
+        setPostsData(convertedFileText)
       }
     } catch (e) {
       throw new Error(e.message)
@@ -29,8 +35,11 @@ function App() {
 
       if (files) {
         const droppedFile = await files[0].text()
+        const convertedFileText = await convertCSVString(droppedFile)
 
-        console.log(droppedFile)
+        setPostsData(convertedFileText)
+
+        console.log(convertedFileText)
       }
     } catch (e) {
       throw new Error(e.message)
