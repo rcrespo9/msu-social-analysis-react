@@ -13,8 +13,12 @@ function App() {
       const firstFile: File = files[0]
       const convertedFileText: IPost[] = await convertCSVFileToJSON(firstFile)
 
-      setFileData(firstFile)
-      setPostsData(convertedFileText)
+      if (firstFile.type !== "text/csv") {
+        console.log("Sorry, CSV files only")
+      } else {
+        setFileData(firstFile)
+        setPostsData(convertedFileText)
+      }
     } catch (e) {
       throw new Error(e)
     }
@@ -40,7 +44,11 @@ function App() {
       const { files } = e.dataTransfer
 
       if (files) {
-        await getFileData(files)
+        if (files.length > 1) {
+          console.log("Sorry, can't upload more than one file.")
+        } else {
+          await getFileData(files)
+        }
       }
     } catch (e) {
       throw new Error(e.message)

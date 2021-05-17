@@ -12,7 +12,6 @@ describe("Social Media Analysis Keywords", () => {
       disallowedAuthors
     );
     const keywordsWithOccurrences = keywordsWithCount(finalKeywords);
-    // eslint-disable-next-line @typescript-eslint/no-unused-vars
     const topKeywords: IWordCount = keywords.topKeywords(keywordsWithOccurrences, 10);
 
     expect(topKeywords).toBeInstanceOf(Object);
