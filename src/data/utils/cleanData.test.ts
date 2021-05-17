@@ -12,7 +12,7 @@ describe("Clean Social Analysis Data", () => {
 
     expect(
       filteredData.filter((post) =>
-        disallowedAuthors.includes(post["author.username"].toLowerCase())
+        disallowedAuthors.includes(post.author.username.toLowerCase())
       )
     ).toEqual([]);
   });

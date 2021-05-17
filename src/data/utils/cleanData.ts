@@ -8,13 +8,13 @@ const cleanData = {
   ): IPost[] {
     return posts.filter(
       (post: IPost) =>
-        !unwantedAuthors.includes(post["author.username"].toLowerCase())
+        !unwantedAuthors.includes(post.author.username.toLowerCase())
     );
   },
 
   extractKeywords(posts: IPost[]): string[] {
     const multiDimenWords: string[][] = posts.map((post: IPost) =>
-      post["content.body"].split(" ")
+      post.content.body.split(" ")
     );
 
     const keywords = ([] as string[])

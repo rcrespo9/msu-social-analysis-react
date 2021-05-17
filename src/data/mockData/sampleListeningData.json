@@ -1,625 +1,881 @@
 [
   {
-    "author.description": "A University on another level, an education that elevates your future. #RedHawkPride  Social Media Community Standards: http://fal.cn/MSUSocialStandards",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1304514827218563074/XtAU995K_normal.jpg",
-    "author.link": "http://www.twitter.com/montclairstateu",
-    "author.location.name": "Montclair, New Jersey, United States",
-    "author.name": "Montclair State U",
-    "author.networkreference": "id:twitter.com:47703620",
-    "author.type": "person",
-    "author.username": "montclairstateu",
-    "author.website": "http://www.twitter.com/montclairstateu",
-    "content.body": "The Today Show, CBS Evening News and now, The Kelly Clarkson Show! Tune in to watch The Montclair State University Singers on @KellyClarksonTV at 2 p.m. Thursday. Check your local listings. https://t.co/QjybOrNqNk",
-    "content.created_by": "Falcon Social Media Management",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/montclairstateu/statuses/1321512296489930752",
-    "content.posted_time": "2020-10-28T18:00:58",
-    "content.quote": "",
-    "content.summary": "The Today Show, CBS Evening News and now, The Kelly Clarkson Show! Tune in to watch The Montclair State University Singers on @KellyClarkson",
-    "content.title": "",
+    "author": {
+      "description": "A University on another level, an education that elevates your future. #RedHawkPride  Social Media Community Standards: http://fal.cn/MSUSocialStandards",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1304514827218563074/XtAU995K_normal.jpg",
+      "link": "http://www.twitter.com/montclairstateu",
+      "location": {
+        "name": "Montclair, New Jersey, United States"
+      },
+      "name": "Montclair State U",
+      "networkreference": "id:twitter.com:47703620",
+      "type": "person",
+      "username": "montclairstateu",
+      "website": "http://www.twitter.com/montclairstateu"
+    },
+    "content": {
+      "body": "The Today Show, CBS Evening News and now, The Kelly Clarkson Show! Tune in to watch The Montclair State University Singers on @KellyClarksonTV at 2 p.m. Thursday. Check your local listings. https://t.co/QjybOrNqNk",
+      "created_by": "Falcon Social Media Management ",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/montclairstateu/statuses/1321512296489930752",
+      "posted_time": "2020-10-28T18:00:58",
+      "quote": "",
+      "summary": "The Today Show, CBS Evening News and now, The Kelly Clarkson Show! Tune in to watch The Montclair State University Singers on @KellyClarkson",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321512296489930752",
     "hashtags": "",
     "keywords": "today,cbs,evening,news,kelly,clarkson,tune,watch,montclair,university,singers,kellyclarksontv,thursday,check,local,listings",
-    "location.city": "Upper Montclair",
-    "location.country": "usa",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "New Jersey",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 14941,
+    "location": {
+      "city": "Upper Montclair",
+      "country": "usa",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": "New Jersey"
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "14941",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "",
-    "author.gender": "female",
-    "author.image": "https://pbs.twimg.com/profile_images/1026256679535562754/CaWjiMtu_normal.jpg",
-    "author.link": "http://www.twitter.com/MariadFerreyro",
-    "author.location.name": "United Kingdom",
-    "author.name": "Maria Ferreyro",
-    "author.networkreference": "id:twitter.com:2325614466",
-    "author.type": "person",
-    "author.username": "MariadFerreyro",
-    "author.website": "http://www.twitter.com/MariadFerreyro",
-    "content.body": "Matias Lauria is Offically a Montclair State University Red Hawk!  https://montclair.meritpages.com/stories/Matias-Lauria-is-Offically-a-Montclair-State-University-Red-Hawk-/41858487",
-    "content.created_by": "Twitter Web App",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/MariadFerreyro/statuses/1321601212215709697",
-    "content.posted_time": "2020-10-28T23:54:17",
-    "content.quote": "",
-    "content.summary": "Matias Lauria is Offically a Montclair State University Red Hawk!  https://t.co/VpbdtpYFtf",
-    "content.title": "",
+    "author": {
+      "description": "",
+      "gender": "female",
+      "image": "https://pbs.twimg.com/profile_images/1026256679535562754/CaWjiMtu_normal.jpg",
+      "link": "http://www.twitter.com/MariadFerreyro",
+      "location": {
+        "name": "United Kingdom"
+      },
+      "name": "Maria Ferreyro",
+      "networkreference": "id:twitter.com:2325614466",
+      "type": "person",
+      "username": "MariadFerreyro",
+      "website": "http://www.twitter.com/MariadFerreyro"
+    },
+    "content": {
+      "body": "Matias Lauria is Offically a Montclair State University Red Hawk!  https://montclair.meritpages.com/stories/Matias-Lauria-is-Offically-a-Montclair-State-University-Red-Hawk-/41858487",
+      "created_by": "Twitter Web App",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/MariadFerreyro/statuses/1321601212215709697",
+      "posted_time": "2020-10-28T23:54:17",
+      "quote": "",
+      "summary": "Matias Lauria is Offically a Montclair State University Red Hawk!  https://t.co/VpbdtpYFtf",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321601212215709697",
     "hashtags": "",
     "keywords": "matias,lauria,offically,montclair,university,red,hawk",
-    "location.city": "",
-    "location.country": "gbr",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 74,
+    "location": {
+      "city": "",
+      "country": "gbr",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "74",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "“I think people need to be educated to the fact that marijuana is not a drug. Marijuana is a flower. God put it here…” – Willie Nelson\n\nMassage Therapist",
-    "author.gender": "female",
-    "author.image": "https://pbs.twimg.com/profile_images/1181089358/1212090858_normal.jpg",
-    "author.link": "http://www.twitter.com/amykristiie",
-    "author.location.name": "",
-    "author.name": "Amy Kristie",
-    "author.networkreference": "id:twitter.com:160288302",
-    "author.type": "person",
-    "author.username": "amykristiie",
-    "author.website": "http://www.twitter.com/amykristiie",
-    "content.body": "Montclair State University : Petition for Montclair State to Provide Fall 2020 Pass/Fail Option - Sign the Petition! https://www.change.org/p/montclair-state-university-petition-for-montclair-state-to-provide-fall-2020-pass-fail-option?recruiter=1159610294&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_message&recruited_by_id=87071900-1966-11eb-9d7a-d1bff186dbdc via @Change",
-    "content.created_by": "Twitter Web App",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/amykristiie/statuses/1321569643878928386",
-    "content.posted_time": "2020-10-28T21:48:51",
-    "content.quote": "",
-    "content.summary": "Montclair State University : Petition for Montclair State to Provide Fall 2020 Pass/Fail Option - Sign the Petition! https://t.co/Q3m0C4oQjT",
-    "content.title": "",
+    "author": {
+      "description": "“I think people need to be educated to the fact that marijuana is not a drug. Marijuana is a flower. God put it here…” – Willie Nelson\r\n\r\nMassage Therapist",
+      "gender": "female",
+      "image": "https://pbs.twimg.com/profile_images/1181089358/1212090858_normal.jpg",
+      "link": "http://www.twitter.com/amykristiie",
+      "location": {
+        "name": ""
+      },
+      "name": "Amy Kristie",
+      "networkreference": "id:twitter.com:160288302",
+      "type": "person",
+      "username": "amykristiie",
+      "website": "http://www.twitter.com/amykristiie"
+    },
+    "content": {
+      "body": "Montclair State University : Petition for Montclair State to Provide Fall 2020 Pass/Fail Option - Sign the Petition! https://www.change.org/p/montclair-state-university-petition-for-montclair-state-to-provide-fall-2020-pass-fail-option?recruiter=1159610294&utm_source=share_petition&utm_medium=twitter&utm_campaign=psf_combo_share_initial&utm_term=psf_combo_share_message&recruited_by_id=87071900-1966-11eb-9d7a-d1bff186dbdc via @Change",
+      "created_by": "Twitter Web App",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/amykristiie/statuses/1321569643878928386",
+      "posted_time": "2020-10-28T21:48:51",
+      "quote": "",
+      "summary": "Montclair State University : Petition for Montclair State to Provide Fall 2020 Pass/Fail Option - Sign the Petition! https://t.co/Q3m0C4oQjT",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321569643878928386",
     "hashtags": "",
     "keywords": "montclair,university,petition,montclair,provide,fall,2020,pass,fail,option,sign,petition,change",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 37,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "37",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "Health, Fitness, and Fun!",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1101552190894804993/NZ7lksNa_normal.png",
-    "author.link": "http://www.twitter.com/MSUCampusRec",
-    "author.location.name": "Bolivia (Plurinational State of)",
-    "author.name": "Montclair State Rec",
-    "author.networkreference": "id:twitter.com:48077335",
-    "author.type": "person",
-    "author.username": "MSUCampusRec",
-    "author.website": "http://www.twitter.com/MSUCampusRec",
-    "content.body": "Join us on Tuesday, November 3, 6 - 8 P.M., at the SRC for our Fall Walls Event! Come decorate shapes, letters, birdhouses, and more to make your space your own! FREE w/ Montclair State ID and NO registration required! https://t.co/1cx79jQqnW",
-    "content.created_by": "Hootsuite Inc.",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/MSUCampusRec/statuses/1321527235518582785",
-    "content.posted_time": "2020-10-28T19:00:20",
-    "content.quote": "",
-    "content.summary": "Join us on Tuesday, November 3, 6 - 8 P.M., at the SRC for our Fall Walls Event! Come decorate shapes, letters, birdhouses, and more to make",
-    "content.title": "",
+    "author": {
+      "description": "Health, Fitness, and Fun!",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1101552190894804993/NZ7lksNa_normal.png",
+      "link": "http://www.twitter.com/MSUCampusRec",
+      "location": {
+        "name": "Bolivia (Plurinational State of)"
+      },
+      "name": "Montclair State Rec",
+      "networkreference": "id:twitter.com:48077335",
+      "type": "person",
+      "username": "MSUCampusRec",
+      "website": "http://www.twitter.com/MSUCampusRec"
+    },
+    "content": {
+      "body": "Join us on Tuesday, November 3, 6 - 8 P.M., at the SRC for our Fall Walls Event! Come decorate shapes, letters, birdhouses, and more to make your space your own! FREE w/ Montclair State ID and NO registration required! https://t.co/1cx79jQqnW",
+      "created_by": "Hootsuite Inc.",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/MSUCampusRec/statuses/1321527235518582785",
+      "posted_time": "2020-10-28T19:00:20",
+      "quote": "",
+      "summary": "Join us on Tuesday, November 3, 6 - 8 P.M., at the SRC for our Fall Walls Event! Come decorate shapes, letters, birdhouses, and more to make",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321527235518582785",
     "hashtags": "",
     "keywords": "join,tuesday,november,src,fall,walls,event,decorate,shapes,letters,birdhouses,space,free,montclair,registration,required",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 3665,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "3665",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "Staff Writer @TheStrickland, co-host of @PodStrickland, contributor @ptknicksblog, mostly Knicks and some Man United stuff, #staywoke on media bias",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1316849102622273538/0iTjpmZ5_normal.jpg",
-    "author.link": "http://www.twitter.com/shwinnypooh",
-    "author.location.name": "",
-    "author.name": "ShwinnyPooh",
-    "author.networkreference": "id:twitter.com:4429697674",
-    "author.type": "person",
-    "author.username": "shwinnypooh",
-    "author.website": "http://www.twitter.com/shwinnypooh",
-    "content.body": "Enjoyed reading this by @StacyPatton89 w my coffee. Winston will def be able to shoot, has a tight handle, and was excellent as a shot creator in PnR and ISO at MSU. I'm concerned how much the step up to the NBA and his athletic limits could cut into his edge in those areas tho.",
-    "content.created_by": "Twitter Web App",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/shwinnypooh/statuses/1321426477074833413",
-    "content.posted_time": "2020-10-28T12:19:57",
-    "content.quote": "You've heard of LaMelo, Killian, and Hali. But what about some point guards possibly available at picks 27 and 38?\n\n@StacyPatton89 breaks down the game of Cassius Winston, in the first of a 3-part series on late round PGs that could be there for NY:\nhttps://t.co/emL8pPdRFJ",
-    "content.summary": "Enjoyed reading this by @StacyPatton89 w my coffee. Winston will def be able to shoot, has a tight handle, and was excellent as a shot creat",
-    "content.title": "",
+    "author": {
+      "description": "Staff Writer @TheStrickland, co-host of @PodStrickland, contributor @ptknicksblog, mostly Knicks and some Man United stuff, #staywoke on media bias",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1316849102622273538/0iTjpmZ5_normal.jpg",
+      "link": "http://www.twitter.com/shwinnypooh",
+      "location": {
+        "name": ""
+      },
+      "name": "ShwinnyPooh",
+      "networkreference": "id:twitter.com:4429697674",
+      "type": "person",
+      "username": "shwinnypooh",
+      "website": "http://www.twitter.com/shwinnypooh"
+    },
+    "content": {
+      "body": "Enjoyed reading this by @StacyPatton89 w my coffee. Winston will def be able to shoot, has a tight handle, and was excellent as a shot creator in PnR and ISO at MSU. I'm concerned how much the step up to the NBA and his athletic limits could cut into his edge in those areas tho.",
+      "created_by": "Twitter Web App",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/shwinnypooh/statuses/1321426477074833413",
+      "posted_time": "2020-10-28T12:19:57",
+      "quote": "You've heard of LaMelo, Killian, and Hali. But what about some point guards possibly available at picks 27 and 38?\n\n@StacyPatton89 breaks down the game of Cassius Winston, in the first of a 3-part series on late round PGs that could be there for NY:\nhttps://t.co/emL8pPdRFJ",
+      "summary": "Enjoyed reading this by @StacyPatton89 w my coffee. Winston will def be able to shoot, has a tight handle, and was excellent as a shot creat",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321426477074833413",
     "hashtags": "",
     "keywords": "enjoyed,reading,stacypatton89,coffee,winston,def,shoot,tight,handle,excellent,shot,creator,pnr,iso,msu,concerned,step,nba,athletic,limits,cut,edge,areas,tho",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 4547,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "4547",
     "parent_id": "tag:search.twitter.com,2005:1321134330538790913",
     "source": "twitter"
   },
   {
-    "author.description": "News and practical information for students, faculty and staff at Montclair State University from Sprague Library.\nAsk questions, share info, retweet.",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1303346856827801602/SEwk-toL_normal.jpg",
-    "author.link": "http://www.twitter.com/montclairulib",
-    "author.location.name": "Montclair, NJ 07043",
-    "author.name": "Sprague Library",
-    "author.networkreference": "id:twitter.com:473991078",
-    "author.type": "person",
-    "author.username": "montclairulib",
-    "author.website": "http://www.twitter.com/montclairulib",
-    "content.body": "ICMY ---",
-    "content.created_by": "Twitter Web App",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/montclairulib/statuses/1321425420345135106",
-    "content.posted_time": "2020-10-28T12:15:45",
-    "content.quote": "Police hiring can be done better. Jason Williams, professor of justice studies at Montclair State University, argues towns must set consistent standards. https://t.co/nrscwEjRzn",
-    "content.summary": "ICMY ---",
-    "content.title": "",
+    "author": {
+      "description": "News and practical information for students, faculty and staff at Montclair State University from Sprague Library.\r\nAsk questions, share info, retweet.",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1303346856827801602/SEwk-toL_normal.jpg",
+      "link": "http://www.twitter.com/montclairulib",
+      "location": {
+        "name": "Montclair, NJ 07043"
+      },
+      "name": "Sprague Library",
+      "networkreference": "id:twitter.com:473991078",
+      "type": "person",
+      "username": "montclairulib",
+      "website": "http://www.twitter.com/montclairulib"
+    },
+    "content": {
+      "body": "ICMY ---",
+      "created_by": "Twitter Web App",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/montclairulib/statuses/1321425420345135106",
+      "posted_time": "2020-10-28T12:15:45",
+      "quote": "Police hiring can be done better. Jason Williams, professor of justice studies at Montclair State University, argues towns must set consistent standards. https://t.co/nrscwEjRzn",
+      "summary": "ICMY ---",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321425420345135106",
     "hashtags": "",
     "keywords": "icmy",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 1611,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "1611",
     "parent_id": "tag:search.twitter.com,2005:1321172316743700483",
     "source": "twitter"
   },
   {
-    "author.description": "Real-time updates for @NJTRANSIT North Jersey bus services.",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1149695832767291393/9bBo5OSb_normal.png",
-    "author.link": "http://www.twitter.com/NJTRANSIT_NBUS",
-    "author.location.name": "New Jersey, United States",
-    "author.name": "North Jersey Buses",
-    "author.networkreference": "id:twitter.com:223162965",
-    "author.type": "person",
-    "author.username": "NJTRANSIT_NBUS",
-    "author.website": "http://www.twitter.com/NJTRANSIT_NBUS",
-    "content.body": "Bus route 28, the 7:00 AM departure from Newark to Montclair State University, will not operate due to operator availability.",
-    "content.created_by": "NJTRANSIT_NBUS",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/NJTRANSIT_NBUS/statuses/1321396072707723264",
-    "content.posted_time": "2020-10-28T10:19:08",
-    "content.quote": "",
-    "content.summary": "Bus route 28, the 7:00 AM departure from Newark to Montclair State University, will not operate due to operator availability.",
-    "content.title": "",
+    "author": {
+      "description": "Real-time updates for @NJTRANSIT North Jersey bus services.",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1149695832767291393/9bBo5OSb_normal.png",
+      "link": "http://www.twitter.com/NJTRANSIT_NBUS",
+      "location": {
+        "name": "New Jersey, United States"
+      },
+      "name": "North Jersey Buses",
+      "networkreference": "id:twitter.com:223162965",
+      "type": "person",
+      "username": "NJTRANSIT_NBUS",
+      "website": "http://www.twitter.com/NJTRANSIT_NBUS"
+    },
+    "content": {
+      "body": "Bus route 28, the 7:00 AM departure from Newark to Montclair State University, will not operate due to operator availability.",
+      "created_by": "NJTRANSIT_NBUS",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/NJTRANSIT_NBUS/statuses/1321396072707723264",
+      "posted_time": "2020-10-28T10:19:08",
+      "quote": "",
+      "summary": "Bus route 28, the 7:00 AM departure from Newark to Montclair State University, will not operate due to operator availability.",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321396072707723264",
     "hashtags": "",
     "keywords": "bus,route,departure,newark,montclair,university,operate,operator,availability",
-    "location.city": "",
-    "location.country": "usa",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "New Jersey",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 10087,
+    "location": {
+      "city": "",
+      "country": "usa",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": "New Jersey"
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "10087",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "Reporter at The Record @northjersey @USAToday Network. Taiwan Queens girl by way of Rochester now living No. Jersey life. Proud alum @DandC & lake effect snow.",
-    "author.gender": "female",
-    "author.image": "https://pbs.twimg.com/profile_images/1313132132383023104/O8gywoD3_normal.jpg",
-    "author.link": "http://www.twitter.com/marychaostyle",
-    "author.location.name": "New Jersey, United States",
-    "author.name": "Mary Chao",
-    "author.networkreference": "id:twitter.com:189998630",
-    "author.type": "person",
-    "author.username": "marychaostyle",
-    "author.website": "http://www.twitter.com/marychaostyle",
-    "content.body": "A visit to Montclair NJ for shopping & dinner at Dan Thai. Daughter asked if there’s a college nearby noting that Urban Outfitters are always located near colleges. Yes. Montclair State. https://t.co/VFicm4Y1Qm",
-    "content.created_by": "Twitter for iPhone",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/marychaostyle/statuses/1321570821127704579",
-    "content.posted_time": "2020-10-28T21:53:32",
-    "content.quote": "",
-    "content.summary": "A visit to Montclair NJ for shopping & dinner at Dan Thai. Daughter asked if there’s a college nearby noting that Urban Outfitters are alway",
-    "content.title": "",
+    "author": {
+      "description": "Reporter at The Record @northjersey @USAToday Network. Taiwan Queens girl by way of Rochester now living No. Jersey life. Proud alum @DandC & lake effect snow.",
+      "gender": "female",
+      "image": "https://pbs.twimg.com/profile_images/1313132132383023104/O8gywoD3_normal.jpg",
+      "link": "http://www.twitter.com/marychaostyle",
+      "location": {
+        "name": "New Jersey, United States"
+      },
+      "name": "Mary Chao",
+      "networkreference": "id:twitter.com:189998630",
+      "type": "person",
+      "username": "marychaostyle",
+      "website": "http://www.twitter.com/marychaostyle"
+    },
+    "content": {
+      "body": "A visit to Montclair NJ for shopping & dinner at Dan Thai. Daughter asked if there’s a college nearby noting that Urban Outfitters are always located near colleges. Yes. Montclair State. https://t.co/VFicm4Y1Qm",
+      "created_by": "Twitter for iPhone",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/marychaostyle/statuses/1321570821127704579",
+      "posted_time": "2020-10-28T21:53:32",
+      "quote": "",
+      "summary": "A visit to Montclair NJ for shopping & dinner at Dan Thai. Daughter asked if there’s a college nearby noting that Urban Outfitters are alway",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321570821127704579",
     "hashtags": "",
     "keywords": "visit,montclair,shopping,dinner,thai,daughter,asked,there’s,college,nearby,noting,urban,outfitters,located,colleges,montclair",
-    "location.city": "",
-    "location.country": "usa",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "New Jersey",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 4429,
+    "location": {
+      "city": "",
+      "country": "usa",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": "New Jersey"
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "4429",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "all I do is eat and sleep and sing ~ MSU '21",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1301907190383546370/vMrNCnB7_normal.jpg",
-    "author.link": "http://www.twitter.com/francescadipisa",
-    "author.location.name": "",
-    "author.name": "cesca",
-    "author.networkreference": "id:twitter.com:939933853",
-    "author.type": "person",
-    "author.username": "francescadipisa",
-    "author.website": "http://www.twitter.com/francescadipisa",
-    "content.body": "@theNSLS #theNSLS (Montclair State University) I recently wrote my midterm on “Dallas Buyers Club” and it was amazing! I have to ask which role has had the biggest influence on you personally, and what’s your advice for aspiring performers?",
-    "content.created_by": "Twitter for iPhone",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/francescadipisa/statuses/1321592357620514818",
-    "content.posted_time": "2020-10-28T23:19:06",
-    "content.quote": "",
-    "content.summary": "@theNSLS #theNSLS (Montclair State University) I recently wrote my midterm on “Dallas Buyers Club” and it was amazing! I have to ask which r",
-    "content.title": "",
+    "author": {
+      "description": "all I do is eat and sleep and sing ~ MSU '21",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1301907190383546370/vMrNCnB7_normal.jpg",
+      "link": "http://www.twitter.com/francescadipisa",
+      "location": {
+        "name": ""
+      },
+      "name": "cesca",
+      "networkreference": "id:twitter.com:939933853",
+      "type": "person",
+      "username": "francescadipisa",
+      "website": "http://www.twitter.com/francescadipisa"
+    },
+    "content": {
+      "body": "@theNSLS #theNSLS (Montclair State University) I recently wrote my midterm on “Dallas Buyers Club” and it was amazing! I have to ask which role has had the biggest influence on you personally, and what’s your advice for aspiring performers?",
+      "created_by": "Twitter for iPhone",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/francescadipisa/statuses/1321592357620514818",
+      "posted_time": "2020-10-28T23:19:06",
+      "quote": "",
+      "summary": "@theNSLS #theNSLS (Montclair State University) I recently wrote my midterm on “Dallas Buyers Club” and it was amazing! I have to ask which r",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321592357620514818",
     "hashtags": "thensls",
     "keywords": "thensls,montclair,university,wrote,midterm,dallas,buyers,club,amazing,role,biggest,influence,personally,what’s,advice,aspiring,performers",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 412,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "412",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "SC: theyoungbull •MSU 🔴⚪️•",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1307066077944438784/qsOYNCRf_normal.jpg",
-    "author.link": "http://www.twitter.com/jellyfam_ern",
-    "author.location.name": "",
-    "author.name": "Kyrie lil'brother",
-    "author.networkreference": "id:twitter.com:496550818",
-    "author.type": "person",
-    "author.username": "jellyfam_ern",
-    "author.website": "http://www.twitter.com/jellyfam_ern",
-    "content.body": "If you guys haven’t please sign this. Rough times right now and this would help us out a lot",
-    "content.created_by": "Twitter for iPhone",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/jellyfam_ern/statuses/1321511468706267138",
-    "content.posted_time": "2020-10-28T17:57:41",
-    "content.quote": "Montclair State University : Petition for Montclair State to Provide Fall 2020 Pass/Fail Option - Sign the Petition! https://t.co/vQnQQV1nTu via @Change",
-    "content.summary": "If you guys haven’t please sign this. Rough times right now and this would help us out a lot",
-    "content.title": "",
+    "author": {
+      "description": "SC: theyoungbull •MSU 🔴⚪️•",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1307066077944438784/qsOYNCRf_normal.jpg",
+      "link": "http://www.twitter.com/jellyfam_ern",
+      "location": {
+        "name": ""
+      },
+      "name": "Kyrie lil'brother",
+      "networkreference": "id:twitter.com:496550818",
+      "type": "person",
+      "username": "jellyfam_ern",
+      "website": "http://www.twitter.com/jellyfam_ern"
+    },
+    "content": {
+      "body": "If you guys haven’t please sign this. Rough times right now and this would help us out a lot",
+      "created_by": "Twitter for iPhone",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/jellyfam_ern/statuses/1321511468706267138",
+      "posted_time": "2020-10-28T17:57:41",
+      "quote": "Montclair State University : Petition for Montclair State to Provide Fall 2020 Pass/Fail Option - Sign the Petition! https://t.co/vQnQQV1nTu via @Change",
+      "summary": "If you guys haven’t please sign this. Rough times right now and this would help us out a lot",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321511468706267138",
     "hashtags": "",
     "keywords": "guys,haven’t,sign,rough,times,lot",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 818,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "818",
     "parent_id": "tag:search.twitter.com,2005:1317338961673596928",
     "source": "twitter"
   },
   {
-    "author.description": "Keeping alumni of Montclair State connected to each other and their alma mater one tweet at a time!",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1122845174244290560/B6C_l2V0_normal.jpg",
-    "author.link": "http://www.twitter.com/MontclairAlumni",
-    "author.location.name": "Montclair, New Jersey, United States",
-    "author.name": "Montclair State Alumni",
-    "author.networkreference": "id:twitter.com:1060669778",
-    "author.type": "person",
-    "author.username": "MontclairAlumni",
-    "author.website": "http://www.twitter.com/MontclairAlumni",
-    "content.body": "🚨Don’t miss this! 👇🏼",
-    "content.created_by": "Twitter for iPhone",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/MontclairAlumni/statuses/1321514111130357760",
-    "content.posted_time": "2020-10-28T18:08:11",
-    "content.quote": "The Today Show, CBS Evening News and now, The Kelly Clarkson Show! Tune in to watch The Montclair State University Singers on @KellyClarksonTV at 2 p.m. Thursday. Check your local listings. https://t.co/QjybOrNqNk",
-    "content.summary": "🚨Don’t miss this! 👇🏼",
-    "content.title": "",
+    "author": {
+      "description": "Keeping alumni of Montclair State connected to each other and their alma mater one tweet at a time!",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1122845174244290560/B6C_l2V0_normal.jpg",
+      "link": "http://www.twitter.com/MontclairAlumni",
+      "location": {
+        "name": "Montclair, New Jersey, United States"
+      },
+      "name": "Montclair State Alumni",
+      "networkreference": "id:twitter.com:1060669778",
+      "type": "person",
+      "username": "MontclairAlumni",
+      "website": "http://www.twitter.com/MontclairAlumni"
+    },
+    "content": {
+      "body": "🚨Don’t miss this! 👇🏼",
+      "created_by": "Twitter for iPhone",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/MontclairAlumni/statuses/1321514111130357760",
+      "posted_time": "2020-10-28T18:08:11",
+      "quote": "The Today Show, CBS Evening News and now, The Kelly Clarkson Show! Tune in to watch The Montclair State University Singers on @KellyClarksonTV at 2 p.m. Thursday. Check your local listings. https://t.co/QjybOrNqNk",
+      "summary": "🚨Don’t miss this! 👇🏼",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321514111130357760",
     "hashtags": "",
     "keywords": "don’t",
-    "location.city": "Upper Montclair",
-    "location.country": "usa",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "New Jersey",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 1718,
+    "location": {
+      "city": "Upper Montclair",
+      "country": "usa",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": "New Jersey"
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "1718",
     "parent_id": "tag:search.twitter.com,2005:1321512296489930752",
     "source": "twitter"
   },
   {
-    "author.description": "",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1321489483137765378/_D7HlES1_normal.jpg",
-    "author.link": "http://www.twitter.com/x0kyy",
-    "author.location.name": "dirty jerz",
-    "author.name": "Ky🧚🏽‍♀️",
-    "author.networkreference": "id:twitter.com:936760838630920193",
-    "author.type": "person",
-    "author.username": "x0kyy",
-    "author.website": "http://www.twitter.com/x0kyy",
-    "content.body": "montclair state university",
-    "content.created_by": "Twitter for iPhone",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/x0kyy/statuses/1321584072045613056",
-    "content.posted_time": "2020-10-28T22:46:11",
-    "content.quote": "4. what college/university you attend?",
-    "content.summary": "montclair state university",
-    "content.title": "",
+    "author": {
+      "description": "",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1321489483137765378/_D7HlES1_normal.jpg",
+      "link": "http://www.twitter.com/x0kyy",
+      "location": {
+        "name": "dirty jerz"
+      },
+      "name": "Ky🧚🏽‍♀️",
+      "networkreference": "id:twitter.com:936760838630920193",
+      "type": "person",
+      "username": "x0kyy",
+      "website": "http://www.twitter.com/x0kyy"
+    },
+    "content": {
+      "body": "montclair state university",
+      "created_by": "Twitter for iPhone",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/x0kyy/statuses/1321584072045613056",
+      "posted_time": "2020-10-28T22:46:11",
+      "quote": "4. what college/university you attend?",
+      "summary": "montclair state university",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321584072045613056",
     "hashtags": "",
     "keywords": "montclair,university",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 1372,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "1372",
     "parent_id": "tag:search.twitter.com,2005:1321248540778209281",
     "source": "twitter"
   },
   {
-    "author.description": "",
-    "author.gender": "",
-    "author.image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-1/p200x200/32587430_564610400606084_6505594221745930240_n.png?_nc_cat=108&ccb=2&_nc_sid=dbb9e7&_nc_ohc=E0P9R0LN7SEAX8ni_Tj&_nc_ht=scontent-frt3-1.xx&_nc_tp=30&oh=f959922befb8758c9eea622cfbb04f8b&oe=60198BA8",
-    "author.link": "http://facebook.com/222972474769880",
-    "author.location.name": "",
-    "author.name": "Newark, NJ Local - News Break",
-    "author.networkreference": 222972474769880,
-    "author.type": "",
-    "author.username": "",
-    "author.website": "",
-    "content.body": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach",
-    "content.created_by": "",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "https://www.facebook.com/222972474769880/posts/1202832023450582/",
-    "content.posted_time": "2020-10-28T19:25:55",
-    "content.quote": "",
-    "content.summary": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach",
-    "content.title": "",
+    "author": {
+      "description": "",
+      "gender": "",
+      "image": "https://scontent-frt3-1.xx.fbcdn.net/v/t1.0-1/p200x200/32587430_564610400606084_6505594221745930240_n.png?_nc_cat=108&ccb=2&_nc_sid=dbb9e7&_nc_ohc=E0P9R0LN7SEAX8ni_Tj&_nc_ht=scontent-frt3-1.xx&_nc_tp=30&oh=f959922befb8758c9eea622cfbb04f8b&oe=60198BA8",
+      "link": "http://facebook.com/222972474769880",
+      "location": {
+        "name": ""
+      },
+      "name": "Newark, NJ Local - News Break",
+      "networkreference": "222972474769880",
+      "type": "",
+      "username": "",
+      "website": ""
+    },
+    "content": {
+      "body": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach",
+      "created_by": "",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "https://www.facebook.com/222972474769880/posts/1202832023450582/",
+      "posted_time": "2020-10-28T19:25:55",
+      "quote": "",
+      "summary": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach",
+      "title": ""
+    },
     "falcon_id": "facebookpost_222972474769880_1202832023450582",
     "hashtags": "",
     "keywords": "montclair,turned,signature,women’s,entrepreneurship,event,8-week,festival,global,reach",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://facebook.com",
-    "network.name": "facebook.com",
-    "reach": 10959,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://facebook.com",
+      "name": "facebook.com"
+    },
+    "reach": "10959",
     "parent_id": "",
     "source": "facebook"
   },
   {
-    "author.description": "Journalist covering the NJ tech environment. Winner 2016 Advocate Award  from NJ  Tech Council. Check out the NJ Tech Weekly newsletter at http://bit.ly/1BwkZux",
-    "author.gender": "female",
-    "author.image": "https://pbs.twimg.com/profile_images/808785783217942529/x7sw91iH_normal.jpg",
-    "author.link": "http://www.twitter.com/njtechwkly",
-    "author.location.name": "New Jersey, United States",
-    "author.name": "Esther Surden",
-    "author.networkreference": "id:twitter.com:209708061",
-    "author.type": "person",
-    "author.username": "njtechwkly",
-    "author.website": "http://www.twitter.com/njtechwkly",
-    "content.body": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach | ROI-NJ https://www.roi-nj.com/2020/10/28/diversity-inclusion/how-montclair-state-turned-signature-womens-entrepreneurship-event-into-8-week-festival-with-global-reach/?utm_source=ROI-NJ+MAIN+Newsletter+List+(2/4/19)&utm_campaign=6e16ada8b6-EMAIL_CAMPAIGN_2020_10_28_12_27&utm_medium=email&utm_term=0_6732b2b110-6e16ada8b6-44336885 https://t.co/UlAlVgg83i",
-    "content.created_by": "Buffer",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/njtechwkly/statuses/1321453175455522830",
-    "content.posted_time": "2020-10-28T14:06:03",
-    "content.quote": "",
-    "content.summary": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach | ROI-NJ https://t.co/ErQcn5CfSc",
-    "content.title": "",
+    "author": {
+      "description": "Journalist covering the NJ tech environment. Winner 2016 Advocate Award  from NJ  Tech Council. Check out the NJ Tech Weekly newsletter at http://bit.ly/1BwkZux",
+      "gender": "female",
+      "image": "https://pbs.twimg.com/profile_images/808785783217942529/x7sw91iH_normal.jpg",
+      "link": "http://www.twitter.com/njtechwkly",
+      "location": {
+        "name": "New Jersey, United States"
+      },
+      "name": "Esther Surden",
+      "networkreference": "id:twitter.com:209708061",
+      "type": "person",
+      "username": "njtechwkly",
+      "website": "http://www.twitter.com/njtechwkly"
+    },
+    "content": {
+      "body": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach | ROI-NJ https://www.roi-nj.com/2020/10/28/diversity-inclusion/how-montclair-state-turned-signature-womens-entrepreneurship-event-into-8-week-festival-with-global-reach/?utm_source=ROI-NJ+MAIN+Newsletter+List+(2/4/19)&utm_campaign=6e16ada8b6-EMAIL_CAMPAIGN_2020_10_28_12_27&utm_medium=email&utm_term=0_6732b2b110-6e16ada8b6-44336885 https://t.co/UlAlVgg83i",
+      "created_by": "Buffer",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/njtechwkly/statuses/1321453175455522830",
+      "posted_time": "2020-10-28T14:06:03",
+      "quote": "",
+      "summary": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach | ROI-NJ https://t.co/ErQcn5CfSc ",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321453175455522830",
     "hashtags": "",
     "keywords": "montclair,turned,signature,women’s,entrepreneurship,event,8-week,festival,global,reach,roi-nj",
-    "location.city": "",
-    "location.country": "usa",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "New Jersey",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 4072,
+    "location": {
+      "city": "",
+      "country": "usa",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": "New Jersey"
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "4072",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "",
-    "author.gender": "female",
-    "author.image": "https://pbs.twimg.com/profile_images/489045973331496960/SmC69YEM_normal.jpeg",
-    "author.link": "http://www.twitter.com/HeleneBarsamian",
-    "author.location.name": "Montclair, Virginia, United States",
-    "author.name": "Helene Barsamian",
-    "author.networkreference": "id:twitter.com:2588141143",
-    "author.type": "person",
-    "author.username": "HeleneBarsamian",
-    "author.website": "http://www.twitter.com/HeleneBarsamian",
-    "content.body": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach https://www.roi-nj.com/2020/10/28/diversity-inclusion/how-montclair-state-turned-signature-womens-entrepreneurship-event-into-8-week-festival-with-global-reach/ via @ROINJNews",
-    "content.created_by": "Twitter Web App",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/HeleneBarsamian/statuses/1321433615163662336",
-    "content.posted_time": "2020-10-28T12:48:19",
-    "content.quote": "",
-    "content.summary": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach https://t.co/nOo2eebWw4 via @ROIN",
-    "content.title": "",
+    "author": {
+      "description": "",
+      "gender": "female",
+      "image": "https://pbs.twimg.com/profile_images/489045973331496960/SmC69YEM_normal.jpeg",
+      "link": "http://www.twitter.com/HeleneBarsamian",
+      "location": {
+        "name": "Montclair, Virginia, United States"
+      },
+      "name": "Helene Barsamian",
+      "networkreference": "id:twitter.com:2588141143",
+      "type": "person",
+      "username": "HeleneBarsamian",
+      "website": "http://www.twitter.com/HeleneBarsamian"
+    },
+    "content": {
+      "body": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach https://www.roi-nj.com/2020/10/28/diversity-inclusion/how-montclair-state-turned-signature-womens-entrepreneurship-event-into-8-week-festival-with-global-reach/ via @ROINJNews",
+      "created_by": "Twitter Web App",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/HeleneBarsamian/statuses/1321433615163662336",
+      "posted_time": "2020-10-28T12:48:19",
+      "quote": "",
+      "summary": "How Montclair State turned signature women’s entrepreneurship event into 8-week festival with global reach https://t.co/nOo2eebWw4 via @ROIN",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321433615163662336",
     "hashtags": "",
     "keywords": "montclair,turned,signature,women’s,entrepreneurship,event,8-week,festival,global,reach,roinjnews",
-    "location.city": "Montclair",
-    "location.country": "usa",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "Virginia",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 11,
+    "location": {
+      "city": "Montclair",
+      "country": "usa",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": "Virginia"
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "11",
     "parent_id": "",
     "source": "twitter"
   },
   {
-    "author.description": "An Education Doctor : author, researcher, presenter, & faculty in the US & France.",
-    "author.gender": "",
-    "author.image": "https://pbs.twimg.com/profile_images/1103418999113728001/OnRG9HpR_normal.jpg",
-    "author.link": "http://www.twitter.com/AbdiEllie",
-    "author.location.name": "",
-    "author.name": "Dr. Ellie Abdi",
-    "author.networkreference": "id:twitter.com:1485351686",
-    "author.type": "person",
-    "author.username": "AbdiEllie",
-    "author.website": "http://www.twitter.com/AbdiEllie",
-    "content.body": "Presenting courses on Leadership through CARES (created by me!) at Montclair State University 📚 https://t.co/22KiqKssbB",
-    "content.created_by": "Twitter for Android",
-    "content.languages.origin.0": "",
-    "content.languages.origin.1": "",
-    "content.languages.term.0": "",
-    "content.languages.term.1": "",
-    "content.link": "http://twitter.com/AbdiEllie/statuses/1321460181826502659",
-    "content.posted_time": "2020-10-28T14:33:53",
-    "content.quote": "",
-    "content.summary": "Presenting courses on Leadership through CARES (created by me!) at Montclair State University 📚 https://t.co/22KiqKssbB",
-    "content.title": "",
+    "author": {
+      "description": "An Education Doctor : author, researcher, presenter, & faculty in the US & France.",
+      "gender": "",
+      "image": "https://pbs.twimg.com/profile_images/1103418999113728001/OnRG9HpR_normal.jpg",
+      "link": "http://www.twitter.com/AbdiEllie",
+      "location": {
+        "name": ""
+      },
+      "name": "Dr. Ellie Abdi",
+      "networkreference": "id:twitter.com:1485351686",
+      "type": "person",
+      "username": "AbdiEllie",
+      "website": "http://www.twitter.com/AbdiEllie"
+    },
+    "content": {
+      "body": "Presenting courses on Leadership through CARES (created by me!) at Montclair State University 📚 https://t.co/22KiqKssbB",
+      "created_by": "Twitter for Android",
+      "languages": {
+        "origin": [
+          "",
+          ""
+        ],
+        "term": [
+          "",
+          ""
+        ]
+      },
+      "link": "http://twitter.com/AbdiEllie/statuses/1321460181826502659",
+      "posted_time": "2020-10-28T14:33:53",
+      "quote": "",
+      "summary": "Presenting courses on Leadership through CARES (created by me!) at Montclair State University 📚 https://t.co/22KiqKssbB",
+      "title": ""
+    },
     "falcon_id": "tweet_tag:search.twitter.com,2005:1321460181826502659",
     "hashtags": "",
     "keywords": "presenting,courses,leadership,cares,created,montclair,university",
-    "location.city": "",
-    "location.country": "",
-    "location.lat": "",
-    "location.long": "",
-    "location.name": "",
-    "location.state": "",
-    "network.category": "social",
-    "network.description": "",
-    "network.link": "http://twitter.com",
-    "network.name": "twitter.com",
-    "reach": 226,
+    "location": {
+      "city": "",
+      "country": "",
+      "lat": "",
+      "long": "",
+      "name": "",
+      "state": ""
+    },
+    "network": {
+      "category": "social",
+      "description": "",
+      "link": "http://twitter.com",
+      "name": "twitter.com"
+    },
+    "reach": "226",
     "parent_id": "",
     "source": "twitter"
   }

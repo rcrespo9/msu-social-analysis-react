@@ -1,38 +1,56 @@
+interface IPostLocation {
+  name: string;
+  city: string;
+  country: string;
+  lat: string;
+  long: string;
+  state: string;
+}
+
+interface IPostAuthor {
+  description: string;
+  gender: string;
+  image: string;
+  link: string;
+  location: Partial<IPostLocation>;
+  name: string;
+  networkreference: string | number;
+  type: string;
+  username: string;
+  website: string;
+}
+
+interface IPostLanguages {
+  origin: string[]
+  term: string[]
+}
+
+interface IPostContent {
+  body: string;
+  created_by: string;
+  languages: IPostLanguages
+  link: string;
+  posted_time: string;
+  quote: string;
+  summary: string;
+  title: string;
+}
+
+interface IPostNetwork {
+  category: string;
+  description: string;
+  link: string;
+  name: string;
+}
+
 export default interface IPost {
-  "author.description": string;
-  "author.gender": string;
-  "author.image": string;
-  "author.link": string;
-  "author.location.name": string;
-  "author.name": string;
-  "author.networkreference": string | number;
-  "author.type": string;
-  "author.username": string;
-  "author.website": string;
-  "content.body": string;
-  "content.created_by": string;
-  "content.languages.origin.0": string;
-  "content.languages.origin.1": string;
-  "content.languages.term.0": string;
-  "content.languages.term.1": string;
-  "content.link": string;
-  "content.posted_time": string;
-  "content.quote": string;
-  "content.summary": string;
-  "content.title": string;
+  author: IPostAuthor;
+  content: IPostContent;
   falcon_id: string;
   hashtags: string;
   keywords: string;
-  "location.city": string;
-  "location.country": string;
-  "location.lat": string;
-  "location.long": string;
-  "location.name": string;
-  "location.state": string;
-  "network.category": string;
-  "network.description": string;
-  "network.link": string;
-  "network.name": string;
+  location: IPostLocation;
+  network: IPostNetwork;
   reach: string | number;
   parent_id: string;
   source: string;
