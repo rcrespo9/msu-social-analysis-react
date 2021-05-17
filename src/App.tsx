@@ -6,11 +6,14 @@ import convertCSVFileToJSON from "./data/utils/convertCSVFileToJSON";
 
 function App() {
   const [postsData, setPostsData] = React.useState<IPost[]>([])
+  const [fileData, setFileData] = React.useState<File>()
 
   const getFileData = async (files: FileList) => {
     try {
-      const convertedFileText = await convertCSVFileToJSON(files)
+      const firstFile: File = files[0]
+      const convertedFileText: IPost[] = await convertCSVFileToJSON(firstFile)
 
+      setFileData(firstFile)
       setPostsData(convertedFileText)
     } catch (e) {
       throw new Error(e)

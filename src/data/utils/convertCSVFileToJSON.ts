@@ -1,9 +1,9 @@
 import csv from "csvtojson/index";
 import IPost from "../interfaces/IPost";
 
-const convertCSVFileToJSON = async (file: FileList): Promise<IPost[]> => {
+const convertCSVFileToJSON = async (file: File): Promise<IPost[]> => {
   try {
-    const fileText: string = await file[0].text()
+    const fileText: string = await file.text()
 
     return await csv().fromString(fileText)
   } catch (e) {
