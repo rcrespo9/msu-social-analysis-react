@@ -2,24 +2,21 @@ import React from 'react';
 import FileUpload from "./FileUpload";
 import BaseCard from "./BaseCard";
 import IPost from "./data/interfaces/IPost";
-import csv from "csvtojson/index";
+import convertCSVFileToJSON from "./data/utils/convertCSVFileToJSON";
 
 function App() {
   const [postsData, setPostsData] = React.useState<IPost[]>([])
-
-  const convertCSVString = async (csvString: string): Promise<IPost[]> => {
-    return csv().fromString(csvString);
-  }
 
   const getFileUpload = async (e: React.ChangeEvent<HTMLInputElement>) => {
     try {
       const { files } = e.target
 
       if (files) {
-        const uploadedFileText = await files[0].text()
-        const convertedFileText = await convertCSVString(uploadedFileText)
+        const convertedFileText = await convertCSVFileToJSON(files)
 
         setPostsData(convertedFileText)
+
+        console.log(files[0])
       }
     } catch (e) {
       throw new Error(e.message)
@@ -34,12 +31,11 @@ function App() {
       const { files } = e.dataTransfer
 
       if (files) {
-        const droppedFile = await files[0].text()
-        const convertedFileText = await convertCSVString(droppedFile)
+        const convertedFileText = await convertCSVFileToJSON(files)
 
         setPostsData(convertedFileText)
 
-        console.log(convertedFileText)
+        console.log(files[0])
       }
     } catch (e) {
       throw new Error(e.message)
